@@ -1,1 +1,1 @@
-from bnmitml.bnmitmlone import *
+from BnmitML.bnmitmlone import *
